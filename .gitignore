@@ -1,0 +1,8 @@
+/node_modules
+/build
+/public/dist
+.DS_Store
+memo.js
+yarn-error.log
+/server/db.js
+.idea
